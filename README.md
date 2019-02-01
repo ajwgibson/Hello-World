@@ -1,2 +1,2 @@
-# Hello-World
+# Hello World
 I just wanted to try out the project tracking features...
