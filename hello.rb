@@ -1,3 +1,2 @@
-name = ARGV.compact.join(' ')
-name = 'World' if name.empty?
+name = ARGV.length > 0 ? ARGV.compact.join(' ') : 'World'
 puts "Hello #{name}!"
